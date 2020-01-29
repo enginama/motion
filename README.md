@@ -2,7 +2,7 @@ Motion Core 0.1.2
 ===============================
 
 
-https://www.motionproject.org
+https://www.motionproject.live
 
 
 What is Motion?
@@ -15,7 +15,7 @@ are carried out collectively by the network. Motion Core is the name of the open
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Motion Core software, see https://www.motionproject.org/.
+the Motion Core software, see https://www.motionproject.live/
 
 
 License
@@ -28,7 +28,7 @@ Development Process
 -------------------
 
 The `master` branch is meant to be stable. Development is normally done in separate branches.
-[Tags](https://github.com/motioncrypto/motion/tags) are created to indicate new official,
+[Tags](https://github.com/enginama/motion/tags) are created to indicate new official,
 stable release versions of Motion Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
